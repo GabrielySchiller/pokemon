@@ -57,10 +57,10 @@ body{
 
 .texto{
     display: flex;
-    font-size: 40px;
+    font-size: 60px;
     letter-spacing: 2px;
     text-align: justify;
-    max-width: 800px;
+    max-width: 850px;
     margin-left: 55px;
     margin-top: -50px;
    
