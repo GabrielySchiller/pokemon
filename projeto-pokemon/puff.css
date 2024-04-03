@@ -1,0 +1,85 @@
+body{
+    display: flex;
+    background-color: #e59aef;
+    font-family: 'Teko', sans-serif;
+    flex-direction: column;
+
+}
+
+.menu{
+    display: flex;
+    justify-content: space-between; 
+    padding: 20px;
+    background-color: #f679d9;
+    margin-top:-10px;
+    margin-left: -10px;
+    margin-right: -10px;
+    border: black solid 2px;
+    
+}
+
+.menu .logo img{
+    width: 100px;
+    
+}
+
+.menu .botoens .ir .btn-ir img{ 
+    width: 30px;
+    cursor: pointer;
+
+}
+
+.menu .botoens .ir .btn-ir{
+    background-color: transparent;
+    border: none;
+    
+}
+.menu .botoens .voltar .btn-voltar img{ 
+    width: 30px;
+    cursor: pointer;
+
+}
+
+.menu .botoens .voltar .btn-voltar{
+    background-color: transparent;
+    border: none;
+    
+}
+
+.titulo{
+    color: black;
+    font-size: 50px;
+    letter-spacing: 10px;
+    margin-left: 70px;
+    font-style: italic;
+    text-shadow: 0px 0px 80px #c92cb6,
+    0px 0px 90px #c92cb6, 0px 0px 90px #c92cb6;
+    
+}
+
+.conteudo {
+    display: flex;
+    justify-content: space-between;
+    
+}
+
+.texto{
+    display: flex;
+    font-size: 40px;
+    letter-spacing: 2px;
+    text-align: justify;
+    max-width: 800px;
+    margin-left: 55px;
+    margin-top: -50px;
+   
+}
+
+.conteudo .imagem img{
+    margin-right: 50px;
+    margin-top: -150px;
+    
+}
+
+
+
+
